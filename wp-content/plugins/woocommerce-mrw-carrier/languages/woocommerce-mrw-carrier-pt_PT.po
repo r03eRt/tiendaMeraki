@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce MRW\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-02 10:46+0100\n"
+"PO-Revision-Date: 2017-04-18 13:31+0100\n"
+"Last-Translator: pablo tribaldos\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Project-Id: 9883\n"
+"X-Loco-Api-Version: 1.0.16 20170414-1"
+
+#: loco:55e6c92e14d725ae2b8b4567
+msgid "Enable"
+msgstr "Ativar"
+
+#: loco:55e6c92e14d725ae2b8b4568
+msgid "Enable MRW Carrier"
+msgstr "Ativar transportadora MRW"
+
+#: loco:55e6c92e14d725ae2b8b4569
+msgid "Title"
+msgstr "Titulo"
+
+#: loco:55e6c92e14d725ae2b8b456a
+msgid "This controls the title which the user sees during checkout."
+msgstr "Aqui controla o título que o usuário vê durante o checkout"
+
+#: loco:55e6c92e14d725ae2b8b456b
+msgid "Environment"
+msgstr "Ambiente"
+
+#: loco:55e6c92e14d725ae2b8b456c
+msgid "Environment development/live"
+msgstr "Ambiente de desenvolvimento / real"
+
+#: loco:55e6c92e14d725ae2b8b456d
+msgid "Development environment"
+msgstr "Ambiente de desenvolvimento"
+
+#: loco:55e6c92e14d725ae2b8b456e
+msgid "Live environment"
+msgstr "Ambiente real"
+
+#: loco:55e6c92e14d725ae2b8b456f
+msgid "Franchise"
+msgstr "Franquia"
+
+#: loco:55e6c92e14d725ae2b8b4570
+msgid "5 digits number XXXXX"
+msgstr "Número de 5 dígitos XXXXX"
+
+#: loco:55e6c92e14d725ae2b8b4571
+msgid "Franchise number, must be 5 digits long"
+msgstr "Número de franquia, você deve ter 5 dígitos"
+
+#: loco:55e6c92e14d725ae2b8b4572
+msgid "e.g. 12345"
+msgstr "ex. 12345"
+
+#: loco:55e6c92e14d725ae2b8b4573
+msgid "Subscriber"
+msgstr "Assinante"
+
+#: loco:55e6c92e14d725ae2b8b4574
+msgid "Subsccriber number, must be 6 digits long"
+msgstr "Número assinante, deve ter 6 dígitos"
+
+#: loco:55e6c92e14d725ae2b8b4575
+msgid "6 digits number XXXXXX"
+msgstr "Número de 6 dígitos XXXXXX"
+
+#: loco:55e6c92e14d725ae2b8b4576
+msgid "e.g. 123456"
+msgstr "ex. 123456"
+
+#: loco:55e6c92e14d725ae2b8b4577
+msgid "Department"
+msgstr "Departamento"
+
+#: loco:55e6c92e14d725ae2b8b4578
+msgid "Department code (optional)"
+msgstr "Código de Departamento (opcional)"
+
+#: loco:55e6c92e14d725ae2b8b4579
+msgid "Optional"
+msgstr "Opcional"
+
+#: loco:55e6c92e14d725ae2b8b457a
+msgid "MRW User"
+msgstr "Utilizador MRW"
+
+#: loco:55e6c92e14d725ae2b8b457b
+msgid "MRW Password"
+msgstr "Senha MRW"
+
+#: loco:55e6c92e14d725ae2b8b457c
+msgid "Select services"
+msgstr "Selecione Serviços"
+
+#: loco:55e6c92e14d725ae2b8b457d
+msgid "Select MRW services"
+msgstr "Seleccione serviços MRW"
+
+#: loco:55e6c92e14d725ae2b8b457e
+msgid "Notifications"
+msgstr "Notificações"
+
+#: loco:55e6c92e14d725ae2b8b457f
+msgid "Without notifications"
+msgstr "Nenhum notificações"
+
+#: loco:55e6c92e14d725ae2b8b4580
+msgid "Notifications via Email"
+msgstr "Notificações via e-mail"
+
+#: loco:55e6c92e14d725ae2b8b4581
+msgid "Notifications via SMS"
+msgstr "Notificações via SMS"
+
+#: loco:55e6c92e14d725ae2b8b4582
+msgid "Notifications via SMS and Email"
+msgstr "Notificações via SMS e e-mail"
+
+#: loco:55e6c92e14d725ae2b8b4583
+msgid "Specific Countries"
+msgstr "Indique países"
+
+#: loco:55e6c92e14d725ae2b8b4584
+msgid "Select some countries"
+msgstr "Selecionar alguns países"
+
+#: loco:55e6c92e14d725ae2b8b4585
+msgid "Error Log"
+msgstr "Log de erro"
+
+#: loco:55e6c92e14d725ae2b8b4586
+msgid "Check this option if you want to generate an error log"
+msgstr "Marque esta opção se deseja criar um log de erros"
+
+#: loco:55e6c92e14d725ae2b8b4587
+msgid ""
+"This module allows you to automate the generation of the shipping labels and "
+"packages shipping vía MRW carrier"
+msgstr ""
+"Este módulo permite automatizar a geração de etiquetas de envio e encomendas "
+"via MRW.\""
+
+#: loco:55e6c92e14d725ae2b8b4588
+msgid "Settings"
+msgstr "Definições"
+
+#: loco:55e6ccbc14d725e2278b4576
+msgid "All"
+msgstr "Tudo"
+
+#: loco:55e6ccdf14d725e2278b4578
+msgid "Save taxes"
+msgstr "Salvar taxas"
+
+#: loco:55e6cd1814d725772b8b4574
+msgid "Tablerate"
+msgstr "Tabela de custos"
+
+#: loco:55e6cd4514d725b5278b457c
+msgid "Generate label"
+msgstr "Gerar etiqueta de envio"
+
+#: loco:55e6cd5114d725a4278b4578
+msgid "Generating label"
+msgstr "A gerar etiqueta de envio"
+
+#: loco:55e6cd5e14d725a4278b457a
+msgid "Download label"
+msgstr "Baixar etiqueta de envio"
+
+#: loco:55e6cd6f14d725b4328b4567
+msgid "Shipping number:"
+msgstr "Número de envio:"
+
+#: loco:55e6cd7814d725c2328b4567
+msgid "Shipping information:"
+msgstr "Informação do Envio:"
+
+#: loco:55e6ce0b14d725772b8b4577
+msgid "There is no tracking information yet"
+msgstr "Ainda não há nenhuma informações de rastreamento do envio"
+
+#: loco:55e6ce1614d7255e338b4567
+msgid "There has been an error generating the label"
+msgstr "Houve um erro ao gerar a etiqueta de envio"
+
+#: loco:55e6ce2014d725b4328b456a
+msgid "Tracking information"
+msgstr "Informações de rastreamento"
+
+#: loco:55e6ce2d14d7259a328b4568
+msgid "Taxes saved"
+msgstr "Taxas gravadas"
+
+#: loco:55e6ce3714d725772b8b4579
+msgid "Ranges saved"
+msgstr "Intervalos gravados"
+
+#: loco:55e6ce5d14d725c2328b456a
+msgid "There is an error in ranges configuration"
+msgstr "Erro na configuraçãão dos intervalos"
+
+#: loco:55e6e58e14d725235d8b4576
+msgid "Calculate shipping from"
+msgstr "Calcular taxa"
+
+#: loco:55e6e60414d725885d8b456e
+msgid "Weight"
+msgstr "Peso"
+
+#: loco:55e6e60814d725295d8b456a
+msgid "Price"
+msgstr "Preço"
+
+#: loco:55e95da414d725a31a8b4572
+msgid "Show most expensive/Don´t show"
+msgstr "Mostrar taxa mais caro / não mostram"
+
+#: loco:55e95daa14d725b8208b456a
+msgid "Show most expensive rate"
+msgstr "Mostrar taxa mais caro"
+
+#: loco:55e95db014d725d7208b456c
+msgid "There has been a problem saving taxes"
+msgstr "Tem havido um problema de poupança taxas"
+
+#: loco:55e95db914d7255a208b456f
+msgid "Add range"
+msgstr "Adicionar faixa"
+
+#: loco:55e95ded14d72569208b456b
+msgid "Don`t show rate"
+msgstr "No Show taxas"
+
+#: loco:55e962bf14d72562208b457a
+msgid "If there is no shipping rate that match"
+msgstr "Se não há nenhuma taxa a aplicar"
+
+#: loco:55e9e86c14d72562628b4567
+msgid "The shipping label was generated successfully!"
+msgstr "¡Etiqueta de remessa gerado corretamente!"
+
+#: loco:563ffa6714d72530338b4567
+msgid "Service"
+msgstr "Serviço"
+
+#: loco:563ffa7814d725db248b4567
+msgid "Number of packages"
+msgstr "Número de embalagens"
+
+#: loco:563ffa7f14d7255f378b4567
+msgid "Comments"
+msgstr "Observações"
+
+#: loco:563ffa8f14d725dd2c8b4567
+msgid "Deliver on Saturday"
+msgstr "Entrega sábado"
+
+#: loco:563ffa9714d72595378b4567
+msgid "With return"
+msgstr "Com retorno"
+
+#: loco:563ffaa714d725dd2c8b4569
+msgid "Default service"
+msgstr "Serviço padrão"
+
+#: loco:563ffabe14d72595378b4569
+msgid "Available services"
+msgstr "Serviços disponíveis"
+
+#: loco:563ffaeb14d725d9378b4567
+msgid "Wont be available if it isn't selected in available services"
+msgstr ""
+"Ela não está disponível se você não tiver escolhido serviços disponíveis"
+
+#: loco:563ffb0014d72530338b4569
+msgid "Shipment information"
+msgstr "Informação Envio"
+
+#: loco:564337da14d725b60f8b456b
+msgid "Yes"
+msgstr "Se"
+
+#: loco:564337f614d72536148b456b
+msgid "No"
+msgstr "Não"
+
+#: loco:564354c614d72574478b4572
+msgid "Write a comment (Optional)"
+msgstr "Escreva um comentário sobre seu pedido (Opcional)"
+
+#: loco:564636fa14d7250a088b4569
+msgid "Delivery in franchise"
+msgstr "Franquia de entrega"
+
+#: loco:5646370214d72543038b4567
+msgid "Package apportionment"
+msgstr "Repartição dos pacotes"
+
+#: loco:5646370c14d725b4078b4567
+msgid "Check just in case your franchise tells you"
+msgstr "Verifique apenas se instruiu sua franquia"
+
+#: loco:5646371214d7250e0b8b4567
+msgid "MRW Tracking Password"
+msgstr "Monitoramento senha MRW"
+
+#: loco:5646371a14d7252f078b4567
+msgid "Check this option if you want to do package apportionment"
+msgstr "Marque esta opção se você fizer repartição de pacotes"
+
+#: loco:5646372114d72551038b4567
+msgid "Weight/Price"
+msgstr "Peso / Preço"
+
+#: loco:5646372914d7255e038b4578
+msgid "Delete range"
+msgstr "Remover gama"
+
+#: loco:5646376814d72551038b4569
+msgid "Tracking password, ask the franchise"
+msgstr "Acompanhando senha"
+
+#: loco:5654649e14d7250b0a8b456a
+msgid "Pick up address"
+msgstr "Captador Endereço"
+
+#: loco:565464a314d72551098b4567
+msgid "Name"
+msgstr "Nome"
+
+#: loco:565464a714d725c50b8b4569
+msgid "Street"
+msgstr "Rua"
+
+#: loco:565464ac14d7256f098b4574
+msgid "Number"
+msgstr "Número"
+
+#: loco:565464b114d725780b8b4567
+msgid "Postal code"
+msgstr "Código postal"
+
+#: loco:565464b814d7250b0a8b456c
+msgid "City"
+msgstr "Cidade"
+
+#: loco:5655aa0414d725b8068b456a
+msgid "Change pick up address"
+msgstr "Alterar endereço de captação"
+
+#: loco:5695472514d725352d8b456e
+msgid "Free delivery from"
+msgstr "Entrega gratuita a partir de"
+
+#: loco:569547a814d725c82d8b456c
+msgid "Delivery free if the order price is above this amount. 0 to disable"
+msgstr "Frete grátis se o preço pedido é acima desse valor. 0 para desativar"
+
+#: loco:569547fb14d725792d8b456c
+msgid "Free shipping if the order price is above this amount. 0 to disable"
+msgstr "Frete grátis se o preço pedido é acima desse valor. 0 para desativar"
+
+#: loco:56c5c9b714d725e14f8b4567
+msgid "Spain"
+msgstr "Espanha"
+
+#: loco:56c5ca1214d725e14f8b4569
+msgid "Click on the select box to add available services"
+msgstr "Clique no selector para adicionar os serviços disponíveis"
+
+#: loco:58f4933752e1a1b01a8b456c
+msgid "Time slot"
+msgstr "Slot de tempo"
+
+#: loco:58f493f252e1a1301b8b4568
+msgid "Time slot (just for Ecommerce service)"
+msgstr "Intervalo de tempo (apenas o serviço e-commerce)"
+
+#: loco:58f4949b52e1a1511b8b4568
+msgid "Don't use time slot"
+msgstr "Não use espaço de tempo"
+
+#: loco:58f4955752e1a13c1b8b456b
+msgid "Between 08:00 and 14:00 hours"
+msgstr "08:00-14:00 hora"
+
+#: loco:58f4956352e1a1511b8b456a
+msgid "Between 16:00 and 19:00 hours"
+msgstr "16:00-19:00 hora"
+
+#: loco:58f4956b52e1a18e1b8b4568
+msgid "Between 20:00 and 22:00 hours"
+msgstr "20:00-22:00 hora"
+
+#: loco:58f6052952e1a116068b4569
+msgid "Marketplace Labels"
+msgstr "Etiquetas marketplace"
+
+#: loco:58f605af52e1a16f068b4568
+msgid ""
+"Check this option if you want to print market places labels. Just in case "
+"your franchise tells you"
+msgstr "Mark somente se indicado pela franquia."
+
+#: loco:58f6068852e1a1b4068b4567
+msgid "Allow Marketplace Labels"
+msgstr "Permitir etiquetas marketplace"

@@ -1,0 +1,405 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce MRW\n"
+"Report-Msgid-Bugs-To: pablo tribaldos\n"
+"POT-Creation-Date: 2017-04-17 11:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Project-Id: 9883\n"
+"X-Loco-Api-Version: 1.0.16 20170414-1"
+
+#: loco:55e6c92e14d725ae2b8b4567
+msgid "Enable"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4568
+msgid "Enable MRW Carrier"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4569
+msgid "Title"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b456a
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b456b
+msgid "Environment"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b456c
+msgid "Environment development/live"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b456d
+msgid "Development environment"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b456e
+msgid "Live environment"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b456f
+msgid "Franchise"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4570
+msgid "5 digits number XXXXX"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4571
+msgid "Franchise number, must be 5 digits long"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4572
+msgid "e.g. 12345"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4573
+msgid "Subscriber"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4574
+msgid "Subsccriber number, must be 6 digits long"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4575
+msgid "6 digits number XXXXXX"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4576
+msgid "e.g. 123456"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4577
+msgid "Department"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4578
+msgid "Department code (optional)"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4579
+msgid "Optional"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b457a
+msgid "MRW User"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b457b
+msgid "MRW Password"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b457c
+msgid "Select services"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b457d
+msgid "Select MRW services"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b457e
+msgid "Notifications"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b457f
+msgid "Without notifications"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4580
+msgid "Notifications via Email"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4581
+msgid "Notifications via SMS"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4582
+msgid "Notifications via SMS and Email"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4583
+msgid "Specific Countries"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4584
+msgid "Select some countries"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4585
+msgid "Error Log"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4586
+msgid "Check this option if you want to generate an error log"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4587
+msgid ""
+"This module allows you to automate the generation of the shipping labels and "
+"packages shipping vía MRW carrier"
+msgstr ""
+
+#: loco:55e6c92e14d725ae2b8b4588
+msgid "Settings"
+msgstr ""
+
+#: loco:55e6ccbc14d725e2278b4576
+msgid "All"
+msgstr ""
+
+#: loco:55e6ccdf14d725e2278b4578
+msgid "Save taxes"
+msgstr ""
+
+#: loco:55e6cd1814d725772b8b4574
+msgid "Tablerate"
+msgstr ""
+
+#: loco:55e6cd4514d725b5278b457c
+msgid "Generate label"
+msgstr ""
+
+#: loco:55e6cd5114d725a4278b4578
+msgid "Generating label"
+msgstr ""
+
+#: loco:55e6cd5e14d725a4278b457a
+msgid "Download label"
+msgstr ""
+
+#: loco:55e6cd6f14d725b4328b4567
+msgid "Shipping number:"
+msgstr ""
+
+#: loco:55e6cd7814d725c2328b4567
+msgid "Shipping information:"
+msgstr ""
+
+#: loco:55e6ce0b14d725772b8b4577
+msgid "There is no tracking information yet"
+msgstr ""
+
+#: loco:55e6ce1614d7255e338b4567
+msgid "There has been an error generating the label"
+msgstr ""
+
+#: loco:55e6ce2014d725b4328b456a
+msgid "Tracking information"
+msgstr ""
+
+#: loco:55e6ce2d14d7259a328b4568
+msgid "Taxes saved"
+msgstr ""
+
+#: loco:55e6ce3714d725772b8b4579
+msgid "Ranges saved"
+msgstr ""
+
+#: loco:55e6ce5d14d725c2328b456a
+msgid "There is an error in ranges configuration"
+msgstr ""
+
+#: loco:55e6e58e14d725235d8b4576
+msgid "Calculate shipping from"
+msgstr ""
+
+#: loco:55e6e60414d725885d8b456e
+msgid "Weight"
+msgstr ""
+
+#: loco:55e6e60814d725295d8b456a
+msgid "Price"
+msgstr ""
+
+#: loco:55e95da414d725a31a8b4572
+msgid "Show most expensive/Don´t show"
+msgstr ""
+
+#: loco:55e95daa14d725b8208b456a
+msgid "Show most expensive rate"
+msgstr ""
+
+#: loco:55e95db014d725d7208b456c
+msgid "There has been a problem saving taxes"
+msgstr ""
+
+#: loco:55e95db914d7255a208b456f
+msgid "Add range"
+msgstr ""
+
+#: loco:55e95ded14d72569208b456b
+msgid "Don`t show rate"
+msgstr ""
+
+#: loco:55e962bf14d72562208b457a
+msgid "If there is no shipping rate that match"
+msgstr ""
+
+#: loco:55e9e86c14d72562628b4567
+msgid "The shipping label was generated successfully!"
+msgstr ""
+
+#: loco:563ffa6714d72530338b4567
+msgid "Service"
+msgstr ""
+
+#: loco:563ffa7814d725db248b4567
+msgid "Number of packages"
+msgstr ""
+
+#: loco:563ffa7f14d7255f378b4567
+msgid "Comments"
+msgstr ""
+
+#: loco:563ffa8f14d725dd2c8b4567
+msgid "Deliver on Saturday"
+msgstr ""
+
+#: loco:563ffa9714d72595378b4567
+msgid "With return"
+msgstr ""
+
+#: loco:563ffaa714d725dd2c8b4569
+msgid "Default service"
+msgstr ""
+
+#: loco:563ffabe14d72595378b4569
+msgid "Available services"
+msgstr ""
+
+#: loco:563ffaeb14d725d9378b4567
+msgid "Wont be available if it isn't selected in available services"
+msgstr ""
+
+#: loco:563ffb0014d72530338b4569
+msgid "Shipment information"
+msgstr ""
+
+#: loco:564337da14d725b60f8b456b
+msgid "Yes"
+msgstr ""
+
+#: loco:564337f614d72536148b456b
+msgid "No"
+msgstr ""
+
+#: loco:564354c614d72574478b4572
+msgid "Write a comment (Optional)"
+msgstr ""
+
+#: loco:564636fa14d7250a088b4569
+msgid "Delivery in franchise"
+msgstr ""
+
+#: loco:5646370214d72543038b4567
+msgid "Package apportionment"
+msgstr ""
+
+#: loco:5646370c14d725b4078b4567
+msgid "Check just in case your franchise tells you"
+msgstr ""
+
+#: loco:5646371214d7250e0b8b4567
+msgid "MRW Tracking Password"
+msgstr ""
+
+#: loco:5646371a14d7252f078b4567
+msgid "Check this option if you want to do package apportionment"
+msgstr ""
+
+#: loco:5646372114d72551038b4567
+msgid "Weight/Price"
+msgstr ""
+
+#: loco:5646372914d7255e038b4578
+msgid "Delete range"
+msgstr ""
+
+#: loco:5646376814d72551038b4569
+msgid "Tracking password, ask the franchise"
+msgstr ""
+
+#: loco:5654649e14d7250b0a8b456a
+msgid "Pick up address"
+msgstr ""
+
+#: loco:565464a314d72551098b4567
+msgid "Name"
+msgstr ""
+
+#: loco:565464a714d725c50b8b4569
+msgid "Street"
+msgstr ""
+
+#: loco:565464ac14d7256f098b4574
+msgid "Number"
+msgstr ""
+
+#: loco:565464b114d725780b8b4567
+msgid "Postal code"
+msgstr ""
+
+#: loco:565464b814d7250b0a8b456c
+msgid "City"
+msgstr ""
+
+#: loco:5655aa0414d725b8068b456a
+msgid "Change pick up address"
+msgstr ""
+
+#: loco:5695472514d725352d8b456e
+msgid "Free delivery from"
+msgstr ""
+
+#: loco:569547a814d725c82d8b456c
+msgid "Delivery free if the order price is above this amount. 0 to disable"
+msgstr ""
+
+#: loco:569547fb14d725792d8b456c
+msgid "Free shipping if the order price is above this amount. 0 to disable"
+msgstr ""
+
+#: loco:56c5c9b714d725e14f8b4567
+msgid "Spain"
+msgstr ""
+
+#: loco:56c5ca1214d725e14f8b4569
+msgid "Click on the select box to add available services"
+msgstr ""
+
+#: loco:58f4933752e1a1b01a8b456c
+msgid "Time slot"
+msgstr ""
+
+#: loco:58f493f252e1a1301b8b4568
+msgid "Time slot (just for Ecommerce service)"
+msgstr ""
+
+#: loco:58f4949b52e1a1511b8b4568
+msgid "Don't use time slot"
+msgstr ""
+
+#: loco:58f4955752e1a13c1b8b456b
+msgid "Between 08:00 and 14:00 hours"
+msgstr ""
+
+#: loco:58f4956352e1a1511b8b456a
+msgid "Between 16:00 and 19:00 hours"
+msgstr ""
+
+#: loco:58f4956b52e1a18e1b8b4568
+msgid "Between 20:00 and 22:00 hours"
+msgstr ""
