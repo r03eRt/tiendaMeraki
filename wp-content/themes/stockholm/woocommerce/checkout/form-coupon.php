@@ -25,7 +25,7 @@ if ( ! wc_coupons_enabled() ) {
 }
 
 if ( empty( WC()->cart->applied_coupons ) ) {
-	$info_message = apply_filters( 'woocommerce_checkout_coupon_message', __( 'Have a coupon?', 'qode' ) . ' <a href="#" class="showcoupon">' . __( 'Click here to enter your code', 'qode' ) . '</a>' );
+	$info_message = apply_filters( 'woocommerce_checkout_coupon_message', __( 'Tienes un cupón?', 'qode' ) . ' <a href="#" class="showcoupon">' . __( 'Introduce aqui tu código', 'qode' ) . '</a>' );
 	wc_print_notice( $info_message, 'notice' );
 }
 ?>
@@ -34,8 +34,8 @@ if ( empty( WC()->cart->applied_coupons ) ) {
 	
 	<?php /*** Our code modification inside Woo template - begin ***/ ?>
 	<div class="coupon">
-		<input type="text" name="coupon_code" class="input-text" placeholder="<?php esc_attr_e( 'Coupon Code', 'qode' ); ?>" id="coupon_code" value="" />
-		<input type="submit" class="button" name="apply_coupon" value="<?php esc_attr_e( 'Apply Coupon', 'qode' ); ?>" />
+		<input type="text" name="coupon_code" class="input-text" placeholder="<?php esc_attr_e( 'Código del cupon', 'qode' ); ?>" id="coupon_code" value="" />
+		<input type="submit" class="button" name="apply_coupon" value="<?php esc_attr_e( 'Aplicar', 'qode' ); ?>" />
 	</div>
 	<?php /*** Our code modification inside Woo template - end ***/ ?>
 	

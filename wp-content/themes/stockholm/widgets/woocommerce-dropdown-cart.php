@@ -75,7 +75,7 @@ class Woocommerce_Dropdown_Cart extends WP_Widget {
 			
 			<?php endif; ?>
 
-                <a href="<?php echo esc_url($woocommerce->cart->get_cart_url()); ?>" class="qbutton small view-cart"><?php _e( 'Cart', 'qode' ); ?></a>
+                <a href="<?php echo esc_url($woocommerce->cart->get_cart_url()); ?>" class="qbutton small view-cart"><?php _e( 'Carrito', 'qode' ); ?></a>
 
                     <span class="total"><?php _e( 'Total', 'qode' ); ?>:<span><?php print $woocommerce->cart->get_cart_subtotal(); ?></span></span>
 

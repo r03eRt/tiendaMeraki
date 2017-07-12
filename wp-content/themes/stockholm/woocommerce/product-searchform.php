@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying product search form
+ * The template for displaying product Buscar porm
  *
  * This template can be overridden by copying it to yourtheme/woocommerce/product-searchform.php.
  *
@@ -23,8 +23,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 ?>
 <form role="search" method="get" class="woocommerce-product-search" id="searchform" action="<?php echo esc_url( home_url( '/'  ) ); ?>">
 	<div>
-		<label class="screen-reader-text" for="woocommerce-product-search-field"><?php esc_html_e( 'Search for:', 'qode' ); ?></label>
-		<input type="search" id="woocommerce-product-search-field" class="search-field" placeholder="<?php echo esc_attr_x( 'Search Products', 'placeholder', 'qode' ); ?>" value="<?php echo get_search_query(); ?>" name="s" title="<?php echo esc_attr_x( 'Search for:', 'label', 'qode' ); ?>" />
+		<label class="screen-reader-text" for="woocommerce-product-search-field"><?php esc_html_e( 'Buscar por:', 'qode' ); ?></label>
+		<input type="search" id="woocommerce-product-search-field" class="search-field" placeholder="<?php echo esc_attr_x( 'Buscar productos', 'placeholder', 'qode' ); ?>" value="<?php echo get_search_query(); ?>" name="s" title="<?php echo esc_attr_x( 'Buscar por:', 'label', 'qode' ); ?>" />
 		<input type="submit" id="searchsubmit" value="&#xf002" />
 		<input type="hidden" name="post_type" value="product" />
 	</div>

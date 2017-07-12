@@ -33,9 +33,9 @@ if ( version_compare( WOOCOMMERCE_VERSION, '3.0' ) >= 0 ) { ?>
 		
 		<?php endif; ?>
 		
-		<?php echo wc_get_product_category_list( $product->get_id(), '<span>,</span>  ', '<span class="posted_in">' . _n( 'Category:', 'Categories:', count( $product->get_category_ids() ), 'qode' ) . ' ', '</span>' ); ?>
+		<?php echo wc_get_product_category_list( $product->get_id(), '<span>,</span>  ', '<span class="posted_in">' . _n( 'Categoria:', 'Categories:', count( $product->get_category_ids() ), 'qode' ) . ' ', '</span>' ); ?>
 		
-		<?php echo wc_get_product_tag_list( $product->get_id(), '<span>,</span>  ', '<span class="tagged_as">' . _n( 'Tag:', 'Tags:', count( $product->get_tag_ids() ), 'qode' ) . ' ', '</span>' ); ?>
+		<?php echo wc_get_product_tag_list( $product->get_id(), '<span>,</span>  ', '<span class="tagged_as">' . _n( 'Tag:', 'Etiquetas:', count( $product->get_tag_ids() ), 'qode' ) . ' ', '</span>' ); ?>
 		
 		<?php do_action( 'woocommerce_product_meta_end' ); ?>
 	
@@ -55,9 +55,9 @@ if ( version_compare( WOOCOMMERCE_VERSION, '3.0' ) >= 0 ) { ?>
 		
 		<?php endif; ?>
 		
-		<?php print $product->get_categories( '<span>,</span>  ', '<span class="posted_in">' . _n( 'Category:', 'Categories:', $cat_count, 'qode' ) . ' ','</span>' ); ?>
+		<?php print $product->get_categories( '<span>,</span>  ', '<span class="posted_in">' . _n( 'Categoria:', 'Categories:', $cat_count, 'qode' ) . ' ','</span>' ); ?>
 		
-		<?php print $product->get_tags( '<span>,</span>  ', '<span class="tagged_as">' . _n( 'Tag:', 'Tags:', $tag_count, 'qode' ) . ' ', '</span>' ); ?>
+		<?php print $product->get_tags( '<span>,</span>  ', '<span class="tagged_as">' . _n( 'Tag:', 'Etiquetas:', $tag_count, 'qode' ) . ' ', '</span>' ); ?>
 		
 		<?php do_action( 'woocommerce_product_meta_end' ); ?>
 	

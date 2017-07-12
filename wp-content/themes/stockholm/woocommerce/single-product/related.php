@@ -27,7 +27,7 @@ if ( version_compare( WOOCOMMERCE_VERSION, '3.0' ) >= 0 ) {
 		
 		<div class="related products">
 			
-			<h5 class="related-products-title"><?php _e( 'Related Products', 'qode' ); ?></h5>
+			<h5 class="related-products-title"><?php _e( 'Productos Relacionados', 'qode' ); ?></h5>
 		
 			<?php woocommerce_product_loop_start(); ?>
 			
@@ -78,7 +78,7 @@ if ( version_compare( WOOCOMMERCE_VERSION, '3.0' ) >= 0 ) {
 		
 		<div class="related products">
 			
-			<h5 class="related-products-title"><?php _e( 'Related Products', 'qode' ); ?></h5>
+			<h5 class="related-products-title"><?php _e( 'Productos Relacionados', 'qode' ); ?></h5>
 		
 			<?php woocommerce_product_loop_start(); ?>
 			

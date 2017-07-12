@@ -79,9 +79,16 @@ else { $paged = 1; }
 								<div class="column1"><?php get_sidebar();?></div>
 								<div class="column2">
 						<?php elseif($sidebar == "4") : ?>
-							<div class="two_columns_25_75 grid2 woocommerce_with_sidebar clearfix">
-								<div class="column1"><?php get_sidebar();?></div>
-								<div class="column2">
+
+							<div class="two_columns_25_75  grid2 woocommerce_with_sidebar clearfix">
+								<div class="column1 " id="producto-sidebar-div">
+									<aside class="sidebar ">
+										<?php dynamic_sidebar( 'Sidebar Page' ); ?>
+										<!-- <?php get_sidebar();?> -->
+									</aside>
+									
+								</div>
+								<div id="producto-contenido-div" class="column2 <?php if(is_search()){echo 'search';} ?>">
 						<?php endif; ?>
 									<div class="column_inner">
 										<?php woocommerce_content(); ?>

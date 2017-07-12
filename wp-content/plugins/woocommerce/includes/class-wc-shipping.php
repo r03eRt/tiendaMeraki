@@ -137,8 +137,8 @@ class WC_Shipping {
 			$this->shipping_methods = $shipping_zone->get_shipping_methods( true );
 
 			// Debug output
-			if ( $debug_mode && ! defined( 'WOOCOMMERCE_CHECKOUT' ) && ! wc_has_notice( 'Customer matched zone "' . $shipping_zone->get_zone_name() . '"' ) ) {
-				wc_add_notice( 'Customer matched zone "' . $shipping_zone->get_zone_name() . '"' );
+			if ( $debug_mode && ! defined( 'WOOCOMMERCE_CHECKOUT' ) && ! wc_has_notice( 'Zona de envío cliente "' . $shipping_zone->get_zone_name() . '"' ) ) {
+				wc_add_notice( 'Zona de envío cliente "' . $shipping_zone->get_zone_name() . '"' );
 			}
 		} else {
 			$this->shipping_methods = array();

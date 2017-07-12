@@ -990,12 +990,19 @@ header:not(.sticky):not(.scrolled) .header_bottom {
     left: -12vh;
     display: none;
 }
-
+/**
 .widget_woocommerce-dropdown-cart {
   position: absolute;
   top: 4vh;  
   right: 12vh;
   z-index: 99;
+}**/
+
+.widget_woocommerce-dropdown-cart {
+    position: absolute;
+    left: calc(50% + 61.5vh);
+    top: 4vh;
+    z-index: 99;
 }
 
 
@@ -1438,11 +1445,6 @@ and (-webkit-min-device-pixel-ratio: 1)  {
 
 }
 
-
-
-
-
-
 .price_slider{ 
     margin-bottom: 1em;
 }
@@ -1499,6 +1501,8 @@ and (-webkit-min-device-pixel-ratio: 1)  {
     -moz-border-radius: 1em;
     border-radius: 1em;
 }
+
+
 .price_slider_wrapper .ui-widget-content {
     -webkit-border-radius: 1em;
     -moz-border-radius: 1em;
@@ -1521,4 +1525,74 @@ and (-webkit-min-device-pixel-ratio: 1)  {
 }
 .ui-slider-horizontal .ui-slider-range-max {
     right: -1px;
+}
+
+
+
+#woocommerce-product-search-field{
+    display: inline-block;
+    text-decoration: none;
+    border: 0;
+    outline: 0;
+    color: #8d8d8d;
+    background-color: transparent;
+    font-family: inherit;
+    margin: 0;
+    padding: 2px 12px;
+    width: 74%;
+    height: 33px;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#producto-contenido-div {
+	float: left;
+}
+#producto-contenido-div .column_inner {
+	padding: 0 20px 0 0;
+}
+#producto-sidebar-div {
+	float: right;
+}
+
+#producto-contenido-div .column_inner .woocommerce-result-count {
+display:block;	
+width: inherit;
+}
+#producto-contenido-div.search .column_inner .woocommerce-result-count {
+display:block;	
+width: 100%;
+}
+
+h2.woocommerce-loop-product__title {
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+a:hover {
+cursor:pointer!important;
+}
+
+@media (max-width: 600px) {
+	#producto-contenido-div {
+		float: left;
+	}
+	#producto-sidebar-div {
+		float: right;
+	    margin-bottom: 0;
+	}
+}
+
+.woocommerce div.message, .woocommerce .woocommerce-message, .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .myaccount_user {
+    position: relative;
+    display: block;
+    margin-bottom: 25px;
+    padding: 11px 40px;
+    background-color: #eaeaea;
+    font-size: 16px;
+    line-height: 38px;
+    color: #393939;
 }
